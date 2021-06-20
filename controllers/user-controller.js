@@ -1,9 +1,9 @@
-const { User } = require('..models')
+const { User } = require('../models')
 
-const UserController = {
+const userController = {
 
     getAllUsers(req, res) {
-        USer.find({})
+        User.find({})
         .populate({
             path: 'thoughts',
             select: '-__v'
