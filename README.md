@@ -26,7 +26,7 @@
   ## Testing Parameters
   N/A
   ## Licensing
-  API
+  N/A
 
   ## Any Questions? Contact me!
   ### [Github](https://github.com/jayeebee)
